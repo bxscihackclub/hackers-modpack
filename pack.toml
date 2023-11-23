@@ -1,13 +1,13 @@
 name = "Hackers Modpack"
-author = "Fahim H."
-version = "1.0.0"
+author = "frykher"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "e4569c0ee07369e5c757da3eda8f38533f63fe1cd2baa6cfe34c1e18c920cf6b"
+hash = "3dc26f1edecad4a6893598f4114b770d5d9aecefbb31582bd18ad389595af7f4"
 
 [versions]
-fabric = "0.14.21"
+fabric = "0.14.22"
 minecraft = "1.20.1"
